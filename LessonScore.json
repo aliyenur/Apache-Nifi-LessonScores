@@ -1,0 +1,1442 @@
+[
+  {
+    "LSID": 1,
+    "personId": 4,
+    "lessonId": 1,
+    "score": 76
+  },
+  {
+    "LSID": 2,
+    "personId": 4,
+    "lessonId": 2,
+    "score": 40
+  },
+  {
+    "LSID": 3,
+    "personId": 4,
+    "lessonId": 3,
+    "score": 96
+  },
+  {
+    "LSID": 4,
+    "personId": 3,
+    "lessonId": 1,
+    "score": 55
+  },
+  {
+    "LSID": 5,
+    "personId": 4,
+    "lessonId": 4,
+    "score": 36
+  },
+  {
+    "LSID": 6,
+    "personId": 4,
+    "lessonId": 5,
+    "score": 77
+  },
+  {
+    "LSID": 7,
+    "personId": 3,
+    "lessonId": 2,
+    "score": 62
+  },
+  {
+    "LSID": 8,
+    "personId": 4,
+    "lessonId": 6,
+    "score": 58
+  },
+  {
+    "LSID": 9,
+    "personId": 4,
+    "lessonId": 1,
+    "score": 18
+  },
+  {
+    "LSID": 10,
+    "personId": 4,
+    "lessonId": 2,
+    "score": 27
+  },
+  {
+    "LSID": 11,
+    "personId": 2,
+    "lessonId": 6,
+    "score": 26
+  },
+  {
+    "LSID": 12,
+    "personId": 4,
+    "lessonId": 3,
+    "score": 22
+  },
+  {
+    "LSID": 13,
+    "personId": 4,
+    "lessonId": 4,
+    "score": 65
+  },
+  {
+    "LSID": 14,
+    "personId": 4,
+    "lessonId": 5,
+    "score": 69
+  },
+  {
+    "LSID": 15,
+    "personId": 4,
+    "lessonId": 6,
+    "score": 4
+  },
+  {
+    "LSID": 16,
+    "personId": 5,
+    "lessonId": 1,
+    "score": 82
+  },
+  {
+    "LSID": 17,
+    "personId": 5,
+    "lessonId": 2,
+    "score": 97
+  },
+  {
+    "LSID": 18,
+    "personId": 5,
+    "lessonId": 3,
+    "score": 80
+  },
+  {
+    "LSID": 19,
+    "personId": 5,
+    "lessonId": 4,
+    "score": 33
+  },
+  {
+    "LSID": 20,
+    "personId": 5,
+    "lessonId": 5,
+    "score": 76
+  },
+  {
+    "LSID": 21,
+    "personId": 5,
+    "lessonId": 6,
+    "score": 43
+  },
+  {
+    "LSID": 22,
+    "personId": 5,
+    "lessonId": 1,
+    "score": 61
+  },
+  {
+    "LSID": 23,
+    "personId": 1,
+    "lessonId": 6,
+    "score": 31
+  },
+  {
+    "LSID": 24,
+    "personId": 5,
+    "lessonId": 2,
+    "score": 49
+  },
+  {
+    "LSID": 25,
+    "personId": 5,
+    "lessonId": 3,
+    "score": 17
+  },
+  {
+    "LSID": 26,
+    "personId": 5,
+    "lessonId": 4,
+    "score": 33
+  },
+  {
+    "LSID": 27,
+    "personId": 5,
+    "lessonId": 5,
+    "score": 50
+  },
+  {
+    "LSID": 28,
+    "personId": 5,
+    "lessonId": 6,
+    "score": 38
+  },
+  {
+    "LSID": 29,
+    "personId": 6,
+    "lessonId": 1,
+    "score": 38
+  },
+  {
+    "LSID": 30,
+    "personId": 6,
+    "lessonId": 2,
+    "score": 89
+  },
+  {
+    "LSID": 31,
+    "personId": 6,
+    "lessonId": 3,
+    "score": 93
+  },
+  {
+    "LSID": 32,
+    "personId": 6,
+    "lessonId": 4,
+    "score": 94
+  },
+  {
+    "LSID": 33,
+    "personId": 6,
+    "lessonId": 5,
+    "score": 68
+  },
+  {
+    "LSID": 34,
+    "personId": 6,
+    "lessonId": 6,
+    "score": 61
+  },
+  {
+    "LSID": 35,
+    "personId": 2,
+    "lessonId": 2,
+    "score": 94
+  },
+  {
+    "LSID": 36,
+    "personId": 6,
+    "lessonId": 1,
+    "score": 12
+  },
+  {
+    "LSID": 37,
+    "personId": 6,
+    "lessonId": 2,
+    "score": 61
+  },
+  {
+    "LSID": 38,
+    "personId": 6,
+    "lessonId": 3,
+    "score": 31
+  },
+  {
+    "LSID": 39,
+    "personId": 6,
+    "lessonId": 4,
+    "score": 68
+  },
+  {
+    "LSID": 40,
+    "personId": 6,
+    "lessonId": 5,
+    "score": 10
+  },
+  {
+    "LSID": 41,
+    "personId": 6,
+    "lessonId": 6,
+    "score": 18
+  },
+  {
+    "LSID": 42,
+    "personId": 7,
+    "lessonId": 1,
+    "score": 81
+  },
+  {
+    "LSID": 43,
+    "personId": 7,
+    "lessonId": 2,
+    "score": 59
+  },
+  {
+    "LSID": 44,
+    "personId": 7,
+    "lessonId": 3,
+    "score": 95
+  },
+  {
+    "LSID": 45,
+    "personId": 7,
+    "lessonId": 4,
+    "score": 86
+  },
+  {
+    "LSID": 46,
+    "personId": 2,
+    "lessonId": 4,
+    "score": 38
+  },
+  {
+    "LSID": 47,
+    "personId": 7,
+    "lessonId": 5,
+    "score": 98
+  },
+  {
+    "LSID": 48,
+    "personId": 7,
+    "lessonId": 6,
+    "score": 44
+  },
+  {
+    "LSID": 49,
+    "personId": 7,
+    "lessonId": 1,
+    "score": 49
+  },
+  {
+    "LSID": 50,
+    "personId": 7,
+    "lessonId": 2,
+    "score": 49
+  },
+  {
+    "LSID": 51,
+    "personId": 7,
+    "lessonId": 3,
+    "score": 14
+  },
+  {
+    "LSID": 52,
+    "personId": 7,
+    "lessonId": 4,
+    "score": 26
+  },
+  {
+    "LSID": 53,
+    "personId": 7,
+    "lessonId": 5,
+    "score": 37
+  },
+  {
+    "LSID": 54,
+    "personId": 7,
+    "lessonId": 6,
+    "score": 50
+  },
+  {
+    "LSID": 55,
+    "personId": 8,
+    "lessonId": 1,
+    "score": 30
+  },
+  {
+    "LSID": 56,
+    "personId": 1,
+    "lessonId": 2,
+    "score": 80
+  },
+  {
+    "LSID": 57,
+    "personId": 1,
+    "lessonId": 3,
+    "score": 55
+  },
+  {
+    "LSID": 58,
+    "personId": 1,
+    "lessonId": 4,
+    "score": 50
+  },
+  {
+    "LSID": 59,
+    "personId": 1,
+    "lessonId": 5,
+    "score": 41
+  },
+  {
+    "LSID": 60,
+    "personId": 1,
+    "lessonId": 1,
+    "score": 81
+  },
+  {
+    "LSID": 61,
+    "personId": 2,
+    "lessonId": 1,
+    "score": 39
+  },
+  {
+    "LSID": 62,
+    "personId": 2,
+    "lessonId": 3,
+    "score": 86
+  },
+  {
+    "LSID": 63,
+    "personId": 2,
+    "lessonId": 5,
+    "score": 62
+  },
+  {
+    "LSID": 64,
+    "personId": 1,
+    "lessonId": 6,
+    "score": 57
+  },
+  {
+    "LSID": 65,
+    "personId": 1,
+    "lessonId": 2,
+    "score": 8
+  },
+  {
+    "LSID": 66,
+    "personId": 1,
+    "lessonId": 3,
+    "score": 17
+  },
+  {
+    "LSID": 67,
+    "personId": 1,
+    "lessonId": 4,
+    "score": 38
+  },
+  {
+    "LSID": 68,
+    "personId": 1,
+    "lessonId": 5,
+    "score": 62
+  },
+  {
+    "LSID": 69,
+    "personId": 1,
+    "lessonId": 1,
+    "score": 44
+  },
+  {
+    "LSID": 70,
+    "personId": 2,
+    "lessonId": 6,
+    "score": 39
+  },
+  {
+    "LSID": 71,
+    "personId": 2,
+    "lessonId": 2,
+    "score": 45
+  },
+  {
+    "LSID": 72,
+    "personId": 2,
+    "lessonId": 4,
+    "score": 2
+  },
+  {
+    "LSID": 73,
+    "personId": 2,
+    "lessonId": 1,
+    "score": 30
+  },
+  {
+    "LSID": 74,
+    "personId": 2,
+    "lessonId": 3,
+    "score": 24
+  },
+  {
+    "LSID": 75,
+    "personId": 2,
+    "lessonId": 5,
+    "score": 2
+  },
+  {
+    "LSID": 76,
+    "personId": 3,
+    "lessonId": 3,
+    "score": 34
+  },
+  {
+    "LSID": 77,
+    "personId": 3,
+    "lessonId": 4,
+    "score": 66
+  },
+  {
+    "LSID": 78,
+    "personId": 3,
+    "lessonId": 5,
+    "score": 51
+  },
+  {
+    "LSID": 79,
+    "personId": 3,
+    "lessonId": 6,
+    "score": 50
+  },
+  {
+    "LSID": 80,
+    "personId": 3,
+    "lessonId": 1,
+    "score": 15
+  },
+  {
+    "LSID": 81,
+    "personId": 3,
+    "lessonId": 2,
+    "score": 65
+  },
+  {
+    "LSID": 82,
+    "personId": 3,
+    "lessonId": 3,
+    "score": 29
+  },
+  {
+    "LSID": 83,
+    "personId": 3,
+    "lessonId": 4,
+    "score": 51
+  },
+  {
+    "LSID": 84,
+    "personId": 3,
+    "lessonId": 5,
+    "score": 67
+  },
+  {
+    "LSID": 85,
+    "personId": 3,
+    "lessonId": 6,
+    "score": 53
+  },
+  {
+    "LSID": 86,
+    "personId": 8,
+    "lessonId": 2,
+    "score": 97
+  },
+  {
+    "LSID": 87,
+    "personId": 8,
+    "lessonId": 3,
+    "score": 92
+  },
+  {
+    "LSID": 88,
+    "personId": 8,
+    "lessonId": 4,
+    "score": 85
+  },
+  {
+    "LSID": 89,
+    "personId": 8,
+    "lessonId": 5,
+    "score": 56
+  },
+  {
+    "LSID": 90,
+    "personId": 8,
+    "lessonId": 6,
+    "score": 77
+  },
+  {
+    "LSID": 91,
+    "personId": 8,
+    "lessonId": 1,
+    "score": 36
+  },
+  {
+    "LSID": 92,
+    "personId": 8,
+    "lessonId": 2,
+    "score": 53
+  },
+  {
+    "LSID": 93,
+    "personId": 8,
+    "lessonId": 3,
+    "score": 58
+  },
+  {
+    "LSID": 94,
+    "personId": 8,
+    "lessonId": 4,
+    "score": 27
+  },
+  {
+    "LSID": 95,
+    "personId": 8,
+    "lessonId": 5,
+    "score": 42
+  },
+  {
+    "LSID": 96,
+    "personId": 8,
+    "lessonId": 6,
+    "score": 23
+  },
+  {
+    "LSID": 97,
+    "personId": 9,
+    "lessonId": 1,
+    "score": 89
+  },
+  {
+    "LSID": 98,
+    "personId": 9,
+    "lessonId": 2,
+    "score": 99
+  },
+  {
+    "LSID": 99,
+    "personId": 9,
+    "lessonId": 3,
+    "score": 35
+  },
+  {
+    "LSID": 100,
+    "personId": 9,
+    "lessonId": 4,
+    "score": 41
+  },
+  {
+    "LSID": 101,
+    "personId": 9,
+    "lessonId": 5,
+    "score": 91
+  },
+  {
+    "LSID": 102,
+    "personId": 9,
+    "lessonId": 6,
+    "score": 38
+  },
+  {
+    "LSID": 103,
+    "personId": 9,
+    "lessonId": 1,
+    "score": 69
+  },
+  {
+    "LSID": 104,
+    "personId": 9,
+    "lessonId": 2,
+    "score": 34
+  },
+  {
+    "LSID": 105,
+    "personId": 9,
+    "lessonId": 3,
+    "score": 48
+  },
+  {
+    "LSID": 106,
+    "personId": 9,
+    "lessonId": 4,
+    "score": 69
+  },
+  {
+    "LSID": 107,
+    "personId": 9,
+    "lessonId": 5,
+    "score": 51
+  },
+  {
+    "LSID": 108,
+    "personId": 9,
+    "lessonId": 6,
+    "score": 16
+  },
+  {
+    "LSID": 109,
+    "personId": 10,
+    "lessonId": 1,
+    "score": 99
+  },
+  {
+    "LSID": 110,
+    "personId": 10,
+    "lessonId": 2,
+    "score": 59
+  },
+  {
+    "LSID": 111,
+    "personId": 10,
+    "lessonId": 3,
+    "score": 80
+  },
+  {
+    "LSID": 112,
+    "personId": 10,
+    "lessonId": 4,
+    "score": 39
+  },
+  {
+    "LSID": 113,
+    "personId": 10,
+    "lessonId": 5,
+    "score": 90
+  },
+  {
+    "LSID": 114,
+    "personId": 10,
+    "lessonId": 6,
+    "score": 73
+  },
+  {
+    "LSID": 115,
+    "personId": 10,
+    "lessonId": 1,
+    "score": 27
+  },
+  {
+    "LSID": 116,
+    "personId": 10,
+    "lessonId": 2,
+    "score": 58
+  },
+  {
+    "LSID": 117,
+    "personId": 10,
+    "lessonId": 3,
+    "score": 56
+  },
+  {
+    "LSID": 118,
+    "personId": 10,
+    "lessonId": 4,
+    "score": 50
+  },
+  {
+    "LSID": 119,
+    "personId": 10,
+    "lessonId": 5,
+    "score": 12
+  },
+  {
+    "LSID": 120,
+    "personId": 10,
+    "lessonId": 6,
+    "score": 4
+  },
+  {
+    "LSID": 121,
+    "personId": 11,
+    "lessonId": 1,
+    "score": 37
+  },
+  {
+    "LSID": 122,
+    "personId": 11,
+    "lessonId": 2,
+    "score": 80
+  },
+  {
+    "LSID": 123,
+    "personId": 11,
+    "lessonId": 3,
+    "score": 73
+  },
+  {
+    "LSID": 124,
+    "personId": 11,
+    "lessonId": 4,
+    "score": 30
+  },
+  {
+    "LSID": 125,
+    "personId": 11,
+    "lessonId": 5,
+    "score": 31
+  },
+  {
+    "LSID": 126,
+    "personId": 11,
+    "lessonId": 6,
+    "score": 65
+  },
+  {
+    "LSID": 127,
+    "personId": 11,
+    "lessonId": 1,
+    "score": 45
+  },
+  {
+    "LSID": 128,
+    "personId": 11,
+    "lessonId": 2,
+    "score": 36
+  },
+  {
+    "LSID": 129,
+    "personId": 11,
+    "lessonId": 3,
+    "score": 26
+  },
+  {
+    "LSID": 130,
+    "personId": 11,
+    "lessonId": 4,
+    "score": 22
+  },
+  {
+    "LSID": 131,
+    "personId": 11,
+    "lessonId": 5,
+    "score": 48
+  },
+  {
+    "LSID": 132,
+    "personId": 11,
+    "lessonId": 6,
+    "score": 67
+  },
+  {
+    "LSID": 133,
+    "personId": 12,
+    "lessonId": 1,
+    "score": 80
+  },
+  {
+    "LSID": 134,
+    "personId": 12,
+    "lessonId": 2,
+    "score": 54
+  },
+  {
+    "LSID": 135,
+    "personId": 12,
+    "lessonId": 3,
+    "score": 86
+  },
+  {
+    "LSID": 136,
+    "personId": 12,
+    "lessonId": 4,
+    "score": 35
+  },
+  {
+    "LSID": 137,
+    "personId": 12,
+    "lessonId": 5,
+    "score": 65
+  },
+  {
+    "LSID": 138,
+    "personId": 12,
+    "lessonId": 6,
+    "score": 73
+  },
+  {
+    "LSID": 139,
+    "personId": 12,
+    "lessonId": 1,
+    "score": 46
+  },
+  {
+    "LSID": 140,
+    "personId": 12,
+    "lessonId": 2,
+    "score": 65
+  },
+  {
+    "LSID": 141,
+    "personId": 12,
+    "lessonId": 3,
+    "score": 70
+  },
+  {
+    "LSID": 142,
+    "personId": 12,
+    "lessonId": 4,
+    "score": 27
+  },
+  {
+    "LSID": 143,
+    "personId": 12,
+    "lessonId": 5,
+    "score": 40
+  },
+  {
+    "LSID": 144,
+    "personId": 12,
+    "lessonId": 6,
+    "score": 30
+  },
+  {
+    "LSID": 145,
+    "personId": 13,
+    "lessonId": 1,
+    "score": 86
+  },
+  {
+    "LSID": 146,
+    "personId": 13,
+    "lessonId": 2,
+    "score": 90
+  },
+  {
+    "LSID": 147,
+    "personId": 13,
+    "lessonId": 3,
+    "score": 84
+  },
+  {
+    "LSID": 148,
+    "personId": 13,
+    "lessonId": 4,
+    "score": 71
+  },
+  {
+    "LSID": 149,
+    "personId": 13,
+    "lessonId": 5,
+    "score": 70
+  },
+  {
+    "LSID": 150,
+    "personId": 13,
+    "lessonId": 6,
+    "score": 69
+  },
+  {
+    "LSID": 151,
+    "personId": 13,
+    "lessonId": 1,
+    "score": 46
+  },
+  {
+    "LSID": 152,
+    "personId": 13,
+    "lessonId": 2,
+    "score": 8
+  },
+  {
+    "LSID": 153,
+    "personId": 13,
+    "lessonId": 3,
+    "score": 56
+  },
+  {
+    "LSID": 154,
+    "personId": 13,
+    "lessonId": 4,
+    "score": 13
+  },
+  {
+    "LSID": 155,
+    "personId": 13,
+    "lessonId": 5,
+    "score": 67
+  },
+  {
+    "LSID": 156,
+    "personId": 13,
+    "lessonId": 6,
+    "score": 34
+  },
+  {
+    "LSID": 157,
+    "personId": 14,
+    "lessonId": 1,
+    "score": 84
+  },
+  {
+    "LSID": 158,
+    "personId": 14,
+    "lessonId": 2,
+    "score": 66
+  },
+  {
+    "LSID": 159,
+    "personId": 14,
+    "lessonId": 3,
+    "score": 85
+  },
+  {
+    "LSID": 160,
+    "personId": 14,
+    "lessonId": 4,
+    "score": 75
+  },
+  {
+    "LSID": 161,
+    "personId": 14,
+    "lessonId": 5,
+    "score": 54
+  },
+  {
+    "LSID": 162,
+    "personId": 14,
+    "lessonId": 6,
+    "score": 95
+  },
+  {
+    "LSID": 163,
+    "personId": 14,
+    "lessonId": 1,
+    "score": 62
+  },
+  {
+    "LSID": 164,
+    "personId": 14,
+    "lessonId": 2,
+    "score": 3
+  },
+  {
+    "LSID": 165,
+    "personId": 14,
+    "lessonId": 3,
+    "score": 57
+  },
+  {
+    "LSID": 166,
+    "personId": 14,
+    "lessonId": 4,
+    "score": 53
+  },
+  {
+    "LSID": 167,
+    "personId": 14,
+    "lessonId": 5,
+    "score": 61
+  },
+  {
+    "LSID": 168,
+    "personId": 14,
+    "lessonId": 6,
+    "score": 17
+  },
+  {
+    "LSID": 169,
+    "personId": 15,
+    "lessonId": 1,
+    "score": 98
+  },
+  {
+    "LSID": 170,
+    "personId": 15,
+    "lessonId": 2,
+    "score": 55
+  },
+  {
+    "LSID": 171,
+    "personId": 15,
+    "lessonId": 3,
+    "score": 33
+  },
+  {
+    "LSID": 172,
+    "personId": 15,
+    "lessonId": 4,
+    "score": 71
+  },
+  {
+    "LSID": 173,
+    "personId": 15,
+    "lessonId": 5,
+    "score": 79
+  },
+  {
+    "LSID": 174,
+    "personId": 15,
+    "lessonId": 6,
+    "score": 75
+  },
+  {
+    "LSID": 175,
+    "personId": 15,
+    "lessonId": 1,
+    "score": 12
+  },
+  {
+    "LSID": 176,
+    "personId": 15,
+    "lessonId": 2,
+    "score": 5
+  },
+  {
+    "LSID": 177,
+    "personId": 15,
+    "lessonId": 3,
+    "score": 59
+  },
+  {
+    "LSID": 178,
+    "personId": 15,
+    "lessonId": 4,
+    "score": 66
+  },
+  {
+    "LSID": 179,
+    "personId": 15,
+    "lessonId": 5,
+    "score": 62
+  },
+  {
+    "LSID": 180,
+    "personId": 15,
+    "lessonId": 6,
+    "score": 45
+  },
+  {
+    "LSID": 181,
+    "personId": 16,
+    "lessonId": 1,
+    "score": 91
+  },
+  {
+    "LSID": 182,
+    "personId": 16,
+    "lessonId": 2,
+    "score": 94
+  },
+  {
+    "LSID": 183,
+    "personId": 16,
+    "lessonId": 3,
+    "score": 70
+  },
+  {
+    "LSID": 184,
+    "personId": 16,
+    "lessonId": 4,
+    "score": 38
+  },
+  {
+    "LSID": 185,
+    "personId": 16,
+    "lessonId": 5,
+    "score": 72
+  },
+  {
+    "LSID": 186,
+    "personId": 16,
+    "lessonId": 6,
+    "score": 99
+  },
+  {
+    "LSID": 187,
+    "personId": 16,
+    "lessonId": 1,
+    "score": 46
+  },
+  {
+    "LSID": 188,
+    "personId": 16,
+    "lessonId": 2,
+    "score": 7
+  },
+  {
+    "LSID": 189,
+    "personId": 16,
+    "lessonId": 3,
+    "score": 62
+  },
+  {
+    "LSID": 190,
+    "personId": 16,
+    "lessonId": 4,
+    "score": 58
+  },
+  {
+    "LSID": 191,
+    "personId": 16,
+    "lessonId": 5,
+    "score": 11
+  },
+  {
+    "LSID": 192,
+    "personId": 16,
+    "lessonId": 6,
+    "score": 12
+  },
+  {
+    "LSID": 193,
+    "personId": 17,
+    "lessonId": 1,
+    "score": 64
+  },
+  {
+    "LSID": 194,
+    "personId": 17,
+    "lessonId": 2,
+    "score": 44
+  },
+  {
+    "LSID": 195,
+    "personId": 17,
+    "lessonId": 3,
+    "score": 35
+  },
+  {
+    "LSID": 196,
+    "personId": 17,
+    "lessonId": 4,
+    "score": 30
+  },
+  {
+    "LSID": 197,
+    "personId": 17,
+    "lessonId": 5,
+    "score": 63
+  },
+  {
+    "LSID": 198,
+    "personId": 17,
+    "lessonId": 6,
+    "score": 57
+  },
+  {
+    "LSID": 199,
+    "personId": 17,
+    "lessonId": 1,
+    "score": 39
+  },
+  {
+    "LSID": 200,
+    "personId": 17,
+    "lessonId": 2,
+    "score": 20
+  },
+  {
+    "LSID": 201,
+    "personId": 17,
+    "lessonId": 3,
+    "score": 69
+  },
+  {
+    "LSID": 202,
+    "personId": 17,
+    "lessonId": 4,
+    "score": 58
+  },
+  {
+    "LSID": 203,
+    "personId": 17,
+    "lessonId": 5,
+    "score": 39
+  },
+  {
+    "LSID": 204,
+    "personId": 17,
+    "lessonId": 6,
+    "score": 47
+  },
+  {
+    "LSID": 205,
+    "personId": 18,
+    "lessonId": 1,
+    "score": 66
+  },
+  {
+    "LSID": 206,
+    "personId": 18,
+    "lessonId": 2,
+    "score": 37
+  },
+  {
+    "LSID": 207,
+    "personId": 18,
+    "lessonId": 3,
+    "score": 83
+  },
+  {
+    "LSID": 208,
+    "personId": 18,
+    "lessonId": 4,
+    "score": 43
+  },
+  {
+    "LSID": 209,
+    "personId": 18,
+    "lessonId": 5,
+    "score": 83
+  },
+  {
+    "LSID": 210,
+    "personId": 18,
+    "lessonId": 6,
+    "score": 61
+  },
+  {
+    "LSID": 211,
+    "personId": 18,
+    "lessonId": 1,
+    "score": 0
+  },
+  {
+    "LSID": 212,
+    "personId": 18,
+    "lessonId": 2,
+    "score": 0
+  },
+  {
+    "LSID": 213,
+    "personId": 18,
+    "lessonId": 3,
+    "score": 44
+  },
+  {
+    "LSID": 214,
+    "personId": 18,
+    "lessonId": 4,
+    "score": 36
+  },
+  {
+    "LSID": 215,
+    "personId": 18,
+    "lessonId": 5,
+    "score": 38
+  },
+  {
+    "LSID": 216,
+    "personId": 18,
+    "lessonId": 6,
+    "score": 22
+  },
+  {
+    "LSID": 217,
+    "personId": 19,
+    "lessonId": 1,
+    "score": 92
+  },
+  {
+    "LSID": 218,
+    "personId": 19,
+    "lessonId": 2,
+    "score": 88
+  },
+  {
+    "LSID": 219,
+    "personId": 19,
+    "lessonId": 3,
+    "score": 55
+  },
+  {
+    "LSID": 220,
+    "personId": 19,
+    "lessonId": 4,
+    "score": 53
+  },
+  {
+    "LSID": 221,
+    "personId": 19,
+    "lessonId": 5,
+    "score": 87
+  },
+  {
+    "LSID": 222,
+    "personId": 19,
+    "lessonId": 6,
+    "score": 83
+  },
+  {
+    "LSID": 223,
+    "personId": 19,
+    "lessonId": 1,
+    "score": 61
+  },
+  {
+    "LSID": 224,
+    "personId": 19,
+    "lessonId": 2,
+    "score": 21
+  },
+  {
+    "LSID": 225,
+    "personId": 19,
+    "lessonId": 3,
+    "score": 52
+  },
+  {
+    "LSID": 226,
+    "personId": 19,
+    "lessonId": 4,
+    "score": 33
+  },
+  {
+    "LSID": 227,
+    "personId": 19,
+    "lessonId": 5,
+    "score": 56
+  },
+  {
+    "LSID": 228,
+    "personId": 19,
+    "lessonId": 6,
+    "score": 26
+  },
+  {
+    "LSID": 229,
+    "personId": 20,
+    "lessonId": 1,
+    "score": 56
+  },
+  {
+    "LSID": 230,
+    "personId": 20,
+    "lessonId": 2,
+    "score": 76
+  },
+  {
+    "LSID": 231,
+    "personId": 20,
+    "lessonId": 3,
+    "score": 63
+  },
+  {
+    "LSID": 232,
+    "personId": 20,
+    "lessonId": 4,
+    "score": 55
+  },
+  {
+    "LSID": 233,
+    "personId": 20,
+    "lessonId": 5,
+    "score": 97
+  },
+  {
+    "LSID": 234,
+    "personId": 20,
+    "lessonId": 6,
+    "score": 51
+  },
+  {
+    "LSID": 235,
+    "personId": 20,
+    "lessonId": 1,
+    "score": 20
+  },
+  {
+    "LSID": 236,
+    "personId": 20,
+    "lessonId": 2,
+    "score": 9
+  },
+  {
+    "LSID": 237,
+    "personId": 20,
+    "lessonId": 3,
+    "score": 43
+  },
+  {
+    "LSID": 238,
+    "personId": 20,
+    "lessonId": 4,
+    "score": 54
+  },
+  {
+    "LSID": 239,
+    "personId": 20,
+    "lessonId": 5,
+    "score": 47
+  },
+  {
+    "LSID": 240,
+    "personId": 20,
+    "lessonId": 6,
+    "score": 41
+  }
+]
